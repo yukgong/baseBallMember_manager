@@ -34,6 +34,5 @@ public class FileSave implements DaoInterface{
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-		
 	}
 }

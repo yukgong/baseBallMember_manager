@@ -80,8 +80,5 @@ public class FileLoad implements DaoInterface  {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-
-
 	}
-
 }
